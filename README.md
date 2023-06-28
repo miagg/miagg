@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!--
-**miagg/miagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import SoftwareDeveloper from 'miagg';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name     = 'Angelos Michalopoulos';
+  title    = 'Software & DevOps Engineer';
+  company  = 'Apptime';
+  location = 'Athens, GR';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['PHP', 'JavaScript'];
+  databases  = ['MySQL', 'PostgreSQL'];
+  frameworks = ['Laravel', 'Vue', 'React'];
+}
+```
+----
+Credit: [thompsonemerson](https://github.com/thompsonemerson)
+
+Last Edited on: 28/06/2023
