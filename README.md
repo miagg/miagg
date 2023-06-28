@@ -21,7 +21,7 @@ I'm a **software and devops engineer** working out of Athens, Greece.
 Specialized in designing custom software architectures and tailor-made applications while also being interested in DevOps, microservices, and various other aspects of software development. With a strong background in software engineering, I strive to create robust and scalable solutions that align with business requirements.
 
 #### Interests
-OpenSource Contribution 👨‍💻, DevOps 🔥, Video Games & streaming 🎮, Dog walking 🐕‍🦺<br/><br/>
+👨‍💻 OpenSource Contribution · 🔥 DevOps · 🎮 Video Games · 🎬 Streaming · 🦮 Dog walking <br/><br/>
 
 ## Languages and Tools
 <p align="center">
