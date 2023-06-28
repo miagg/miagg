@@ -2,7 +2,7 @@
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
   
-  Welcome I'm Angelos Michalopoulos !
+  Welcome 👋 I'm Angelos Michalopoulos !
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -16,11 +16,11 @@
 
   </h3>
 
-Hey! I'm a software and devops engineer working out of Athens, Greece.
+I'm a software and devops engineer working out of Athens, Greece.
 
-I'm specialized in designing custom software architectures and tailor-made applications while also being interested in DevOps, microservices, and various other aspects of software development. With a strong background in software engineering, I strive to create robust and scalable solutions that align with business requirements.
+Specialized in designing custom software architectures and tailor-made applications while also being interested in DevOps, microservices, and various other aspects of software development. With a strong background in software engineering, I strive to create robust and scalable solutions that align with business requirements.
 
-Interests: OpenSource Contribution 👨‍💻, Video Games & streaming 🎮, Devops ✨, Dog walking 🐕‍🦺<br/><br/>
+Interests: OpenSource Contribution 👨‍💻, DevOps 🔥, Video Games & streaming 🎮, Dog walking 🐕‍🦺<br/><br/>
 
 ## Languages and Tools
 <p align="center">
