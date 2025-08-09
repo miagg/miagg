@@ -20,7 +20,7 @@ I craft **custom software architectures** and **tailor-made applications**, blen
 
 Passionate about turning ideas into reliable systems, I focus on bridging the gap between **development, deployment, and operations**.
 
-#### Interests
+## Interests
 👨‍💻 OpenSource Contribution · 🔥 DevOps · 🎮 Video Games · 🎬 Streaming · 🦮 Dog walking <br/><br/>
 
 ## Languages and Tools
