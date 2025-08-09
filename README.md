@@ -4,7 +4,6 @@
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
@@ -47,7 +46,3 @@ Passionate about turning ideas into reliable systems, I focus on bridging the ga
 <a href="https://github.com/miagg"><img alt="Angelos Michalopoulos's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=miagg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 <a href="https://github.com/miagg"><img alt="Angelos Michalopoulos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miagg&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
-------
-Credit: [thesaravanakumar](https://github.com/thesaravanakumar)
-
-Last Edited on: 28/06/2023
